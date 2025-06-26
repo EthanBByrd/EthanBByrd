@@ -6,7 +6,7 @@
 - 🛡️ [Project Documentation](https://github.com/EthanBByrd/ethanb-docs/tree/main/projectDocumentation)
 - 📑 [GRC Policy Templates & Risk Assessments](https://github.com/EthanBByrd/ethanb-docs/tree/main/GRC)
 - 🕵️ [Blog Posts](https://github.com/EthanBByrd/ethanb-docs/tree/main/blogs)
-- 🖥️ [Home Lab Setup Guide](https://github.com/ethanbyrd/home-lab)
+- 🖥️ [Home Lab Setup]()
 
 ## 📫 Connect with Me
 - Email: coachbyrdow@gmail.com
