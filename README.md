@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ethan Byrd
 
-<!--
-**EthanBByrd/EthanBByrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity & GRC Enthusiast | Technical Writer | Home Lab Builder
 
-Here are some ideas to get you started:
+## 🧰 Portfolio Highlights
+- 🛡️ [Endless SSH Honeypot](https://github.com/ethanbyrd/endless-ssh-honeypot)
+- 📑 [GRC Policy Templates & Risk Assessments](https://github.com/ethanbyrd/grc-policy-docs)
+- 🕵️ [CTF Writeups](https://github.com/ethanbyrd/ctf-writeups)
+- 🖥️ [Home Lab Setup Guide](https://github.com/ethanbyrd/home-lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- Email: ethan.byrd@example.com  
+- LinkedIn: [linkedin.com/in/ethanbyrd](https://linkedin.com/in/ethanbyrd)
