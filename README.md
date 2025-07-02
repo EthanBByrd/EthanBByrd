@@ -4,7 +4,7 @@
 
 ##  Portfolio Highlights
 -  [Project Documentation](https://github.com/EthanBByrd/ethanb-docs/tree/main/projectDocumentation)
--  [GRC Policy Templates & Risk Assessments](https://github.com/EthanBByrd/ethanb-docs/tree/main/GRC)
+-  [GRC Policy & Risk Assessments](https://github.com/EthanBByrd/ethanb-docs/tree/main/GRC)
 -  [Blog Posts](https://github.com/EthanBByrd/ethanb-docs/tree/main/blogs)
 -  [Home Lab Setup]()
 
